@@ -1,0 +1,29 @@
+body
+{
+	background-color: crimson;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: aquamarine;
+		padding: 14px;
+		float: none;
+		border-radius: 14px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#output
+{
+background: rgb(105, 228, 67);
+border-radius: 10px;
+border-top: 10px solid #1f65e7;
+padding: 14px;
+text-align: center
+;
+}
